@@ -1,0 +1,6 @@
+Five Stage Pipelined implementation:
+                Number of cycles: 9
+                Number of instructions executed: 4.0
+                Average CPI: 2.25
+                Instructions per cycle: 0.4444444444444444
+                

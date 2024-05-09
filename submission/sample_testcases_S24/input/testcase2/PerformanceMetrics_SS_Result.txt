@@ -1,0 +1,6 @@
+Single stage implementation:
+                Number of cycles: 40
+                Number of instructions executed: 39.0
+                Average CPI: 1.0256410256410255
+                Instructions per cycle: 0.975
+                
